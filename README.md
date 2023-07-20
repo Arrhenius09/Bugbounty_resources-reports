@@ -1,7 +1,7 @@
 # Bugbounty resources
 ## List Vulnerability
 - [Arbitrary File Upload]
-- [Account Takeover](Bugbounty_resources/Account Takeover)
+- [Account Takeover](https://github.com/Arrhenius09/Bugbounty_resources/blob/main/Account%20Takeover.md)
 - [CRLF Injection]
 - [Cross Site Request Forgery (CSRF)]
 - 
