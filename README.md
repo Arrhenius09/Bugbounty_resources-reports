@@ -1,1 +1,1 @@
-# Bugbounty_resources
+# Bugbounty resources
