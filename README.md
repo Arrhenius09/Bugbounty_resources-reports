@@ -17,4 +17,4 @@ Welcome to my repository! This repository contains resources to assist in the bu
 ## Tools
 
 ## CVEs
-- [2018](https://github.com/Arrhenius09/Bugbounty_resources-reports/tree/main/CVEs)
+- [2018](https://github.com/Arrhenius09/Bugbounty_resources-reports/tree/main/CVEs/2018)
