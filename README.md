@@ -17,5 +17,4 @@ Welcome to my repository! This repository contains resources to assist in the bu
 ## Tools
 
 ## CVEs
-- [CVE-2018-15473 - OpenSSH 2.3 < 7.7 Username Enumeration](https://github.com/Arrhenius09/Bugbounty_resources-reports/blob/main/CVEs/2018/CVE-2018-15473.md)
-
+- [2018](https://github.com/Arrhenius09/Bugbounty_resources-reports/tree/main/CVEs)
