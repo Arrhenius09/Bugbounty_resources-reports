@@ -12,10 +12,11 @@ Welcome to my repository! This repository contains resources to assist in the bu
 - [SQL Injection](https://github.com/Arrhenius09/Bugbounty_resources-reports/blob/main/List%20Vulnerabilty/SQL%20Injection.md)
 - [Server-Side Request Forgery (SSRF)](https://github.com/Arrhenius09/Bugbounty_resources-reports/blob/main/List%20Vulnerabilty/SSRF.md)
 - [Subdomain Takeover](https://github.com/Arrhenius09/Bugbounty_resources-reports/blob/main/List%20Vulnerabilty/Subdomain%20Takeover.md)
-- [Cross Site Scripting (XSS)](https://github.com/Arrhenius09/Bugbounty_resources-reports/blob/main/List%20Vulnerabilty/XSS.md)
+- [Cross Site Scripting (XSS)](https://github.com/Arrhenius09/Bugbounty_resources-reports/blob/main/List%20Vulnerailty/XSS.md)
 
 ## Tools
-
+- [Malicious PDF Generator](https://github.com/jonaslejon/malicious-pdf)
+  
 ## CVEs
 - [2023]
 - [2022]
