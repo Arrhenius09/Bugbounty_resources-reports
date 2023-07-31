@@ -18,7 +18,7 @@ Welcome to my repository! This repository contains resources to assist in the bu
 - [Malicious PDF Generator](https://github.com/jonaslejon/malicious-pdf)
   
 ## CVEs
-- [2023]
+- [2023](https://github.com/Arrhenius09/Bugbounty_resources-reports/tree/main/CVEs/2023)
 - [2022]
 - [2021]
 - [2020]
